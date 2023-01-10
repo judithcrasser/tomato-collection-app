@@ -5,8 +5,8 @@
 
 <br>
 
-<img src="./screenshots/collection.jpg" width="500">
+<img src="./screenshots/collection.jpg" width="700">
 
-<img src="./screenshots/form.jpg" width="500">
+<img src="./screenshots/form.jpg" width="700">
 
-<img src="./screenshots/detail.jpg" width="500">
+<img src="./screenshots/detail.jpg" width="700">
