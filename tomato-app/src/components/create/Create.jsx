@@ -35,7 +35,6 @@ function Create() {
   }
 
   // const updateItem = () => {
-
   // }
 
 
@@ -69,76 +68,76 @@ function Create() {
         <h3>Neue Tomate</h3>
         <form onSubmit={handleSubmit}>
           <div className="form-left">
-          <label>Name</label>
-          <input 
-            type="text"
-            required
-            value={name}
-            onChange={(e) => setName(e.target.value)}
-          />
+            ((<label>Name</label>
+            <input 
+              type="text"
+              required
+              value={name}
+              onChange={(e) => setName(e.target.value)}
+            />
 
-          <label>Fruchttyp</label>
-          <select 
-            className="select"
-            value={type}
-            onChange={(e) => setType(e.target.value)}
-          >
-            <option value="Fleischtomate">Fleischtomate</option>
-            <option value="Salattomate">Salattomate</option>
-            <option value="Cherrytomate">Cherrytomate</option>
-            <option value="Flaschentomate">Flaschentomate</option>
-          </select>
+            <label>Fruchttyp</label>
+            <select 
+              className="select"
+              value={type}
+              onChange={(e) => setType(e.target.value)}
+            >
+              <option value="Fleischtomate">Fleischtomate</option>
+              <option value="Salattomate">Salattomate</option>
+              <option value="Cherrytomate">Cherrytomate</option>
+              <option value="Flaschentomate">Flaschentomate</option>
+            </select>
 
-          <label>Wuchshöhe</label>
-          <input 
-            type="number"
-            required 
-            value={height}
-            onChange={(e) => setHeight(e.target.value)}
-          />
+            <label>Wuchshöhe</label>
+            <input 
+              type="number"
+              required 
+              value={height}
+              onChange={(e) => setHeight(e.target.value)}
+            />
 
-          <label>Fruchtgewicht</label>
-          <input 
-            type="number"
-            required 
-            value={weight}
-            onChange={(e) => setWeight(e.target.value)}
-          />
+            <label>Fruchtgewicht</label>
+            <input 
+              type="number"
+              required 
+              value={weight}
+              onChange={(e) => setWeight(e.target.value)}
+            />
 
-          <label>Reifezeit</label>
-          <select 
-            className="select"
-            value={maturation}
-            onChange={(e) => setMaturation(e.target.value)}
-          >
-            <option value="früh">früh</option>
-            <option value="mittel">mittel</option>
-            <option value="spät">spät</option>
-          </select>
-          
-          <label>Standort</label>
-          <select 
-            className="select"
-            value={cultivation}
-            onChange={(e) => setCultivation(e.target.value)}
-          >
-            <option value="Gewächshaus">Gewächshaus</option>
-            <option value="Freiland unter Dach">Freiland unter Dach</option>
-            <option value="Freiland">Freiland</option>
-          </select>
+            <label>Reifezeit</label>
+            <select 
+              className="select"
+              value={maturation}
+              onChange={(e) => setMaturation(e.target.value)}
+            >
+              <option value="früh">früh</option>
+              <option value="mittel">mittel</option>
+              <option value="spät">spät</option>
+            </select>
+            
+            <label>Standort</label>
+            <select 
+              className="select"
+              value={cultivation}
+              onChange={(e) => setCultivation(e.target.value)}
+            >
+              <option value="Gewächshaus">Gewächshaus</option>
+              <option value="Freiland unter Dach">Freiland unter Dach</option>
+              <option value="Freiland">Freiland</option>
+            </select>))
           </div>
 
           <div className="form-right">
-          <label>Sortenbeschreibung</label>
-          <textarea 
-            type="text"
-            required
-            value={description}
-            onChange={(e) => setDescription(e.target.value)}
-          />
+            <label>Sortenbeschreibung</label>
+            <textarea 
+              type="text"
+              required
+              value={description}
+              onChange={(e) => setDescription(e.target.value)}
+            />
 
-          { !isLoading && <button>Tomate hinzufügen</button> }
-          { isLoading && <button>wird hinzugefügt...</button> }
+            { !isLoading && <button>Tomate hinzufügen</button> }
+            { isLoading && <button>wird hinzugefügt...</button> }
 
           </div>
         </form>

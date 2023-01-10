@@ -25,38 +25,40 @@ const handleClick = () => {
               
                 <h2>{ item.name }</h2>
 
-                
                 <div className="info-box">
+
                   <div className="info-box-left">
-                  <div className="info-box-row">
-                    <p>Fruchttyp:</p>
-                    <p>{ item.type }</p>
+                    <div className="info-box-row">
+                      <p>Fruchttyp:</p>
+                      <p>{ item.type }</p>
+                    </div>
+                    <div className="info-box-row">
+                      <p>Wuchshöhe:</p>
+                      <p>{ item.height } cm</p>
+                    </div>
+                    <div className="info-box-row">
+                      <p>Fruchtgewicht:</p>
+                      <p>{ item.weight } g</p>
+                    </div>
+                    <div className="info-box-row">
+                      <p>Reifezeit:</p>
+                      <p>{ item.maturation }</p>
+                    </div>
+                    <div className="info-box-row">
+                      <p>Standort:</p>
+                      <p>{ item.cultivation }</p>
+                    </div>
                   </div>
-                  <div className="info-box-row">
-                    <p>Wuchshöhe:</p>
-                    <p>{ item.height } cm</p>
-                  </div>
-                  <div className="info-box-row">
-                    <p>Fruchtgewicht:</p>
-                    <p>{ item.weight } g</p>
-                  </div>
-                  <div className="info-box-row">
-                    <p>Reifezeit:</p>
-                    <p>{ item.maturation }</p>
-                  </div>
-                  <div className="info-box-row">
-                    <p>Standort:</p>
-                    <p>{ item.cultivation }</p>
-                  </div>
-                  </div>
+
                   <div className="info-box-right">
-                  <button className="delete" onClick={handleClick}>löschen</button>
+                    <button className="delete" onClick={handleClick}>löschen</button>
                   </div>
+                  
                 </div>
+
                 <p>{ item.description }</p>
 
                 <Link to="/" className='back-button'>zurück</Link>
-
                 
             </div>
         )}
