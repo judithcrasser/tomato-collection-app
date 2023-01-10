@@ -1,0 +1,54 @@
+{
+  "items": [
+    {
+      "name": "Andenhorn",
+      "type": "Flaschentomate",
+      "height": "200",
+      "weight": "300",
+      "maturation": "spät",
+      "cultivation": "Freiland unter Dach",
+      "description": "'Andenhorn' ist eine unkomplizierte und sehr ertragreiche Flaschentomate. Anfangs sieht die Sorte mit Ihren hängenden Blättern etwas kränklich aus, was aber sortenbedingt ganz normal ist. Die Pflanzen sind sehr robust und kommen auch im Freiland gut zurecht. Allerdings sind die Sommer hier im Mittelgebirge oft schon Mitte September vorbei und es wird nachts empfindlich kalt.\n\nDeshalb bekommen meine Pflanzen immer ein lauschiges Plätzchen im Gewächshaus oder unterm Dach im Freiland. Das 'Andenhorn' dankt mir diese zuvorkommende Behandlung seit vielen Jahren mit reichem Fruchtansatz und wunderschönen Früchten. Ich ziehe meine Pflanzen mit nur einem Stamm und dünne auch die oberen Fruchtstände noch etwas aus. \n\nGegen Ende August werden die ersten Früchte reif endlich reif und das Warten hat ein Ende. Oft hängen die Tomaten bis in den November hinein an der Pflanze und reifen auch später im Haus noch gut nach. Die Sorte eignet sich sehr gut für die Weiterverarbeitung zu Soßen oder zum Belegen von Brot und Pizza.",
+      "id": 6
+    },
+    {
+      "name": "Ananas",
+      "type": "Fleischtomate",
+      "height": "160",
+      "weight": "800",
+      "maturation": "spät",
+      "cultivation": "Gewächshaus",
+      "description": "'Ananastomate' oder 'Pineapple Tomato' nennt man diese wunderschöne, gelb-orange-rot gefärbte Fleischtomate. Sie stammt aus den USA und wurde in den 1950er Jahren von 'Gleckler Seedmen' aus Ohio eingeführt.\n\nDie normal- blättrigen Pflanzen werden meist nicht höher als 180 cm. Die 'Ananastomate' ist eine späte Sorte, die nach der Befruchtung rund 75 Tage zum Reifen benötigt. An kräftigen Rispen wachsen 6 bis 12 cm große und bis zu 800 g schwere Fleischtomaten.\n\nDie abgeflachten Früchte sind unterschiedlich stark gerippt, haben mehrere Fruchtkammern aber nur wenig Kerne. Das gelb-orange-rot marmorierte Fruchtfleisch wird von einer weichen, nicht ganz platzfesten Haut umgeben. Der Geschmack ist wunderbar aromatisch, fruchtig-süß ohne viel Säure.",
+      "id": 9
+    },
+    {
+      "name": "Berner Rose",
+      "type": "Fleischtomate",
+      "height": "180",
+      "weight": "300",
+      "maturation": "mittel",
+      "cultivation": "Gewächshaus",
+      "description": "'Berner Rose' oder 'Rose de Berne' heißt diese historische Stabtomate. Sie soll aus der Schweiz stammen, was ihren Namen durchaus erklären würde, andererseits wird als Herkunftsland auch Frankreich genannt. Sie bildet unterschiedlich große rosarote Früchte und ist wegen ihres hervorragenden Geschmacks weltweit beliebt.\n\nDie Pflanzen haben normalblättriges Laub und werden um die 180 cm hoch. 'Berner Rose' ist eine mittelspäte Sorte, die von der Befruchtung bis zur Reife etwa 65 Tage benötigt. An kräftigen Rispen wachsen jeweils 5 bis 7 Tomaten, die 5 bis 10 cm groß und bis zu 300 g schwer werden.\n\nDie kleineren Früchte sind meist rund, die größeren etwas abgeflacht und manchmal am Stielansatz leicht gerippt. Sie bestehen aus mehreren Fruchtkammern, haben saftiges weiches Fruchtfleisch und werden von einer dünnen, nicht ganz platzfesten Haut umschlossen. Der Geschmack ist wunderbar aromatisch, fruchtig, süß mit einer angenehmen feinen Säure.",
+      "id": 11
+    },
+    {
+      "name": "Black Krim",
+      "type": "Fleischtomate",
+      "height": "180",
+      "weight": "350",
+      "maturation": "spät",
+      "cultivation": "Gewächshaus",
+      "description": "'Black Krim' oder 'Schwarze von der Krim' nennt sich diese wunderschön violett- rotbraun gefärbte Fleischtomate. Sie stammt aus der Ukraine und wurde nach der Halbinsel Krim im nördlichen Schwarzen Meer benannt.\n\nDie Pflanzen haben normal- blättriges Laub, einen kräftigen Wuchs, bleiben aber in der Höhe meist unter 180 cm. Die 'Schwarze von der Krim' ist eine späte Sorte, die nach der Befruchtung oft mehr als 75 Tage zum Reifen benötigt. An kräftigen verzweigten Rispen wachsen 6 bis 10 cm große und bis zu 350 g schwere Fleischtomaten.\n\nDie abgeflachten Früchte tragen olivgrüne Schultern und sind ausgehend vom Stielansatz mehr oder weniger stark gerippt. Sie bestehen aus mehrere Fruchtkammern, das dunkelrote, zart schmelzende Fruchtfleisch wird von einer weichen, nicht ganz platzfesten Haut umgeben. Der Geschmack ist fruchtig und rauchig- süß ohne nennenswerte Säure.",
+      "id": 12
+    },
+    {
+      "name": "Black Cherry",
+      "type": "Cherrytomate",
+      "height": "250",
+      "weight": "30",
+      "maturation": "früh",
+      "cultivation": "Gewächshaus",
+      "description": "'Black Cherry' nennt sich diese mittlerweile weltweit beliebte dunkle Cherrytomate. Sie stammt aus den USA, wurde von Vince Sapp gezüchtet und ist seit etwa 2003 im Handel. Sie bildet lange Rispen und trägt köstliche dunkel- rotbraune Früchte.\n\nDie Pflanzen haben normal- blättriges Laub und werden über 250 cm hoch. 'Black Cherry' ist eine frühe Sorte, die von der Befruchtung bis zur Reife etwa 55 Tage benötigt. An den verzweigten Rispen wachsen jeweils mehr als 15 Tomaten, die in der Regel 3 bis 4 cm groß und bis zu 30 g schwer werden.\n\nDie runden Früchte haben 2 Fruchtkammern, saftiges weiches Fruchtfleisch und sind von einer weichen nicht ganz platzfesten Haut umschlossen. Der Geschmack dieser kleinen knackigen Tomaten ist wunderbar aromatisch, fruchtig-süß mit einer feinen säuerlichen Note.",
+      "id": 13
+    }
+  ]
+}
